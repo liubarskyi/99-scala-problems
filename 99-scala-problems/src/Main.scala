@@ -1,18 +1,18 @@
 
 object Main extends App {
 
-  def length(list: List[Any]): Int = {
+  def length[T](list: List[T]): Int = {
     list match {
       case _ :: tail => 1 + length(tail)
       case Nil => 0
     }
   }
 
-  def lengthPureFunctional(list: List[Any]): Int = {
+  def lengthPureFunctional[T](list: List[T]): Int = {
     list.foldLeft(0)((counter, element) => counter + 1)
   }
 
-  def last(list: List[Any]): Any = {
+  def last[T](list: List[T]): T = {
     list match {
       case something :: Nil => something
       case something :: tail => last(tail)
@@ -20,7 +20,7 @@ object Main extends App {
     }
   }
 
-  def preLast(list: List[Any]): Any = {
+  def preLast[T](list: List[T]): T = {
     list match {
       case pre :: last :: Nil => pre
       case pre :: tail => preLast(tail)
@@ -28,7 +28,7 @@ object Main extends App {
     }
   }
 
-  def fromStart(k: Int, list: List[Any]): Any = {
+  def fromStart[T](k: Int, list: List[T]): T = {
     k match {
       case k if k < 0 | k > list.size - 1 => throw new NoSuchElementException
       case 0 => list.head
@@ -36,15 +36,15 @@ object Main extends App {
     }
   }
 
-  def reverse(list: List[Any]): List[Any] = {
+  def reverse[T](list: List[T]): List[T] = {
     list match {
       case Nil => Nil
       case first :: tail => reverse(tail) ::: first :: Nil
     }
   }
 
-  def reversePureFunctional(list: List[Any]): List[Any] = {
-    list.foldLeft(List[Any]())((acc, elem) => elem :: acc)
+  def reversePureFunctional[T](list: List[T]): List[T] = {
+    list.foldLeft(List[T]())((acc, elem) => elem :: acc)
   }
 
   def compress[T](list: List[T]): List[T] = {
@@ -62,26 +62,26 @@ object Main extends App {
     }) == 0
   }
 
-  def pack(list: List[Any]): List[List[Any]] = {
-    list.foldLeft(List[List[Any]]())((acc, elem) => {
+  def pack[T](list: List[T]): List[List[T]] = {
+    list.foldLeft(List[List[T]]())((acc, elem) => {
       if (acc.nonEmpty && acc.last.head == elem) acc.init :+ (acc.last :+ elem)
       else acc :+ List(elem)
     })
   }
 
-  def encode(list: List[Any]): List[(Int, Any)] = {
+  def encode[T](list: List[T]): List[(Int, T)] = {
     pack(list).map(packed => (packed.size, packed.head))
   }
 
-  def encodeModified(list: List[Any]): List[Any] = {
+  def encodeModified[T](list: List[T]): List[Any] = {
     pack(list).map(packed => if (packed.size == 1) packed.head else (packed.size, packed.head))
   }
 
-  def decode(encoded: List[(Int, Any)]): List[Any] = {
+  def decode[T](encoded: List[(Int, T)]): List[T] = {
     encoded.flatMap(tuple => List.fill(tuple._1)(tuple._2))
   }
 
-  def encodeDirect(list: List[Any]): List[(Int, Any)] = {
+  def encodeDirect[T](list: List[T]): List[(Int, T)] = {
     if (list.isEmpty) Nil
     else {
       val (packed, tail) = list.span(_ == list.head)
@@ -89,15 +89,15 @@ object Main extends App {
     }
   }
 
-  def duplicate(list: List[Any]): List[Any] = {
+  def duplicate[T](list: List[T]): List[T] = {
     list.flatMap(e => List(e, e))
   }
 
-  def duplicateTimes(n: Int, list: List[Any]): List[Any] = {
+  def duplicateTimes[T](n: Int, list: List[T]): List[T] = {
     list.flatMap(e => List.fill(n)(e))
   }
 
-  def drop(n: Int, list: List[Any]): List[Any] = {
+  def drop[T](n: Int, list: List[T]): List[T] = {
     if (list.isEmpty) Nil
     else {
       if (n == 1) drop(3, list.tail)
@@ -105,8 +105,8 @@ object Main extends App {
     }
   }
 
-  def dropPureFunctional(n: Int, list: List[Any]): List[Any] = {
+  def dropPureFunctional[T](n: Int, list: List[T]): List[T] = {
     list.zipWithIndex.filter(e => (e._2 + 1) % n != 0).map(e => e._1)
   }
-
+  
 }
