@@ -1,0 +1,266 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+15 items
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\common\package$.class
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\common\package.class
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\recfun\Main$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\recfun\Main$$anonfun$main$1.class
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\recfun\Main$.class
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\recfun\Main.class
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\recfun\Test$$anonfun$balance$1.class
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\recfun\Test$$anonfun$balance$2.class
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\recfun\Test$$anonfun$compress$1.class
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\recfun\Test$$anonfun$lengthPure$1.class
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\recfun\Test$$anonfun$reversePure$1.class
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\recfun\Test$.class
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\recfun\Test$delayedInit$body.class
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\recfun\Test.class
+binary dependencies:
+6 items
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> C:\Users\dmytro.v.liubarskyi\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> C:\Users\dmytro.v.liubarskyi\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> C:\Users\dmytro.v.liubarskyi\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+15 items
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> common.package
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> common.package$
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> common.package$$anonfun$subFile$1
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> recfun.Main
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> recfun.Main$
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> recfun.Main$$anonfun$main$1
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> recfun.Main$$anonfun$main$1$$anonfun$apply$mcVI$sp$1
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> recfun.Test
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> recfun.Test$
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> recfun.Test$$anonfun$balance$1
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> recfun.Test$$anonfun$balance$2
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> recfun.Test$$anonfun$compress$1
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> recfun.Test$$anonfun$lengthPure$1
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> recfun.Test$$anonfun$reversePure$1
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> recfun.Test$delayedInit$body
+used names:
+131 items
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> ::
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> <init>
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> <repeated>
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> Any
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> AnyRef
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> File
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> FileInputStream
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> InputStream
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> List
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> None
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> Nothing
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> Option
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> Predef
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> String
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> _root_
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> child
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> children
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> classesDir
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> common
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> exists
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> file
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> foldLeft
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> getClass
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> getParentFile
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> getResource
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> io
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> java
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> package
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> projectDir
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> resourceFile
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> resourcePath
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> scala
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> subFile
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> toURI
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> +
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> -
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> <
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> <init>
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> ==
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> AnyRef
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> Array
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> Boolean
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> Char
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> Int
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> List
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> Main
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> Predef
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> String
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> Unit
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> balanceRecursive
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> c
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> chars
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> closed
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> coins
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> col
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> foreach
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> head
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> intWrapper
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> isEmpty
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> money
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> open
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> package
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> pascal
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> print
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> println
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> r
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> recfun
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> recursive
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> remaining
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> row
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> scala
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> tail
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> to
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> ||
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> &&
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> +
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> -
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> :+
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> ::
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> :::
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> <
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> <init>
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> ==
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> >
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> Any
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> App
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> Boolean
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> Char
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> Exception
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> Int
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> List
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> Nil
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> NoSuchElementException
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> Predef
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> T
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> Test
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> acc
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> apply
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> asInstanceOf
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> balance
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> canBuildFrom
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> chars
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> counter
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> elem
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> element
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> first
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> foldLeft
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> fromStart
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> head
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> immutable
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> isInstanceOf
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> java
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> k
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> lang
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> last
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> length
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> list
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> map
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> nonEmpty
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> package
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> pre
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> preLast
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> print
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> recfun
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> reverse
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> scala
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> size
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> something
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> tail
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> toInt
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> |
+product stamps:
+15 items
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class -> lastModified(1480860341895)
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\common\package$.class -> lastModified(1480860341872)
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\common\package.class -> lastModified(1480860341787)
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\recfun\Main$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class -> lastModified(1480860341965)
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\recfun\Main$$anonfun$main$1.class -> lastModified(1480860341948)
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\recfun\Main$.class -> lastModified(1480860341933)
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\recfun\Main.class -> lastModified(1480860341910)
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\recfun\Test$$anonfun$balance$1.class -> lastModified(1480860342022)
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\recfun\Test$$anonfun$balance$2.class -> lastModified(1480860342031)
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\recfun\Test$$anonfun$compress$1.class -> lastModified(1480860342040)
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\recfun\Test$$anonfun$lengthPure$1.class -> lastModified(1480860342049)
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\recfun\Test$$anonfun$reversePure$1.class -> lastModified(1480860342058)
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\recfun\Test$.class -> lastModified(1480860342013)
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\recfun\Test$delayedInit$body.class -> lastModified(1480860342066)
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\target\scala-2.11\classes\recfun\Test.class -> lastModified(1480860341980)
+source stamps:
+3 items
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> hash(882ad2880742e64e6cb354030929567d40b2107d)
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> hash(d51c12db0f6a6a68f4373dad71e9ca9ef5fb9f0b)
+binary stamps:
+2 items
+C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar -> lastModified(1479460559354)
+C:\Users\dmytro.v.liubarskyi\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> lastModified(1438617791000)
+class names:
+2 items
+C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar -> java.lang.Object
+C:\Users\dmytro.v.liubarskyi\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> scala.App
+internal apis:
+3 items
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AXwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBmc3EAfgBfAXVxAH4AQgAAAABwc3EAfgBfAXVxAH4AQgAAAABwc3EAfgBfAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AfnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Af3NxAH4AcnQAA0FueXNxAH4AdnNxAH4AeXVxAH4AfAAAAAJzcQB+AH50AAVzY2FsYXEAfgCFcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVjKJ33tdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATkM6XFVzZXJzXGRteXRyby52LmxpdWJhcnNreWlcRG93bmxvYWRzXHJlY2Z1blxyZWNmdW5cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIhbjxKlsqg9rWWPdswf3WeKONSo
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBi3/AcAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAtn3C50AAZub3RpZnlzcQB+AAwCBlwtdAAEd2FpdHNxAH4ADK3ZQpN0AA0kYXNJbnN0YW5jZU9mc3EAfgAM1ZV6QnQABmVxdWFsc3NxAH4ADIWa9B50AAxhc0luc3RhbmNlT2ZzcQB+AAwhh1/0dAAMc3luY2hyb25pemVkc3EAfgAMt/wxPnQADSRpc0luc3RhbmNlT2ZzcQB+AAw0t7ytdAAGcGFzY2Fsc3EAfgAMQGUzn3QAB2JhbGFuY2VzcQB+AAzCmPVwdAAEbWFpbnNxAH4ADOjQUlF0AAlub3RpZnlBbGxzcQB+AAxLooIQdAAMaXNJbnN0YW5jZU9mc3EAfgAM/Emh8HQAAj09c3EAfgAM9mD493QABWNsb25lc3EAfgAM1EELxXQABE1haW5zcQB+AAws/iaYdAAIdG9TdHJpbmdzcQB+AAxxnhCkdAACIT1zcQB+AAzJcn0IdAAIZ2V0Q2xhc3NzcQB+AAwHFErYdAALY291bnRDaGFuZ2VzcQB+AAxpqPM7dAACbmVzcQB+AAwIIdvSdAACZXFzcQB+AAy7FygLdAACIyNzcQB+AAxTffQCdAAIZmluYWxpemVzcQB+AAw9hpqQdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBHeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAALcmVjZnVuLk1haW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AF8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZnNxAH4AXwF1cQB+AEIAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEhxAH4AUXVxAH4AUgAAAABzcQB+AFQAcQB+ACF1cQB+AFcAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIF1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBueHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBadAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB1WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBlc3EAfgB0dAAFQXJyYXlxAH4AenVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB0dAAGU3RyaW5nc3EAfgB4c3EAfgB7dXEAfgB+AAAAA3NxAH4AgHQABGphdmFzcQB+AIB0AARsYW5ncQB+AIVwc3EAfgBfAXVxAH4AQgAAAABwc3EAfgBfAXVxAH4AmQAAAAJzcQB+AHR0AAZPYmplY3RxAH4AnXNxAH4AdHQAA0FueXEAfgB6cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZyZWNmdW5zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVjKJ33tdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATkM6XFVzZXJzXGRteXRyby52LmxpdWJhcnNreWlcRG93bmxvYWRzXHJlY2Z1blxyZWNmdW5cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIgq0ogHQuZObLNUAwkpVn1AshB9
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDgOFQuAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGvdWoh0AAZub3RpZnlzcQB+AAziomDedAAEd2FpdHNxAH4ADDnYvWl0AA0kYXNJbnN0YW5jZU9mc3EAfgAM4bC34nQABmVxdWFsc3NxAH4ADGfa+2l0AApsZW5ndGhQdXJlc3EAfgAMNhI4+HQADGFzSW5zdGFuY2VPZnNxAH4ADMelF7V0AA5leGVjdXRpb25TdGFydHNxAH4ADLwR7WV0AAxzeW5jaHJvbml6ZWRzcQB+AAxeoxj+dAALcmV2ZXJzZVB1cmVzcQB+AAwCCMXOdAANJGlzSW5zdGFuY2VPZnNxAH4ADOQYkQV0AAdiYWxhbmNlc3EAfgAMBD0HKHQABG1haW5zcQB+AAyE3W2sdAAEbGFzdHNxAH4ADPLi/wp0AAlub3RpZnlBbGxzcQB+AAxcDI+4dAAMaXNJbnN0YW5jZU9mc3EAfgAMCBmNiXQAB3JldmVyc2VzcQB+AAxPWAx3dAAHcHJlTGFzdHNxAH4ADHx4RAF0AAI9PXNxAH4ADERi9+B0AAlmcm9tU3RhcnRzcQB+AAzvWxXBdAAFY2xvbmVzcQB+AAzRI1KwdAAIY29tcHJlc3NzcQB+AAzjlczidAAEVGVzdHNxAH4ADL7ix810AAh0b1N0cmluZ3NxAH4ADODSj1x0AARhcmdzc3EAfgAMSQEJYnQABmxlbmd0aHNxAH4ADLhAYHp0AAIhPXNxAH4ADHOGV/J0AAhnZXRDbGFzc3NxAH4ADFvV45x0AAJuZXNxAH4ADEQEZYF0AAJlcXNxAH4ADN1u5XJ0AAtkZWxheWVkSW5pdHNxAH4ADCM5hLt0AAIjI3NxAH4ADEavLFV0AAhmaW5hbGl6ZXNxAH4ADOMiS990AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AAtyZWNmdW4uVGVzdHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABBzY2FsYS5kZXByZWNhdGVkdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AHR4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHMAcHNxAH4AeHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBZTAAJaW5oZXJpdGVkcQB+AFlMAAdwYXJlbnRzcQB+AFl4cQB+AHxzcQB+AHMAcHNxAH4AeHVxAH4AVAAAAABzcQB+AHMAcHNxAH4AeHVxAH4AVAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AWnEAfgBjdXEAfgBkAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AiXhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB7dAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHtzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKNzcQB+AGYAcQB+ACV1cQB+AGkAAAAAc3EAfgCWdAAEVW5pdHEAfgCcdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AiXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AbHQABVBsYWlucQB+AD1zcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AJdbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHtzcQB+AJZ0AAVBcnJheXEAfgCcdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AJZ0AAZTdHJpbmdzcQB+AJpzcQB+AJ11cQB+AKAAAAADc3EAfgCidAAEamF2YXNxAH4AonQABGxhbmdxAH4Ap3NxAH4AcwBwc3EAfgB4dXEAfgC+AAAABHNxAH4AlnQAA0FwcHEAfgCcc3EAfgCWdAALRGVsYXllZEluaXRxAH4AnHNxAH4AlnQABk9iamVjdHEAfgDCc3EAfgCWdAADQW55cQB+AJx1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZyZWNmdW5zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVjKJ33tdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATkM6XFVzZXJzXGRteXRyby52LmxpdWJhcnNreWlcRG93bmxvYWRzXHJlY2Z1blxyZWNmdW5cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNUcEtsPampo9Dc9rXHpyp71+58L
+external apis:
+0 items
+source infos:
+3 items
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\common\package.scala -> 
+AAAAAAAAAAA=
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Main.scala -> 
+AAAAAAAAAAA=
+C:\Users\dmytro.v.liubarskyi\Downloads\recfun\recfun\src\main\scala\recfun\Test.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWL/7WP91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATkM6XFVzZXJzXGRteXRyby52LmxpdWJhcnNreWlcRG93bmxvYWRzXHJlY2Z1blxyZWNmdW5cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWMU4JK11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATkM6XFVzZXJzXGRteXRyby52LmxpdWJhcnNreWlcRG93bmxvYWRzXHJlY2Z1blxyZWNmdW5cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWMU+ExB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATkM6XFVzZXJzXGRteXRyby52LmxpdWJhcnNreWlcRG93bmxvYWRzXHJlY2Z1blxyZWNmdW5cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWMonfe11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATkM6XFVzZXJzXGRteXRyby52LmxpdWJhcnNreWlcRG93bmxvYWRzXHJlY2Z1blxyZWNmdW5cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=

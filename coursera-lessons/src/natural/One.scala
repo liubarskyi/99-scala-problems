@@ -1,0 +1,5 @@
+package natural
+
+class One {
+
+}
