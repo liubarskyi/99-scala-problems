@@ -108,5 +108,62 @@ object Main extends App {
   def dropPureFunctional[T](n: Int, list: List[T]): List[T] = {
     list.zipWithIndex.filter(e => (e._2 + 1) % n != 0).map(e => e._1)
   }
-  
+
+  def split[T](n: Int, list: List[T]): (List[T], List[T]) = {
+    def recursive(n: Int, first: List[T], second: List[T]): (List[T], List[T]) = {
+      if (n == 0) (first, second)
+      else recursive(n - 1, first :+ second.head, second.tail)
+    }
+    if (n < 1 || n > list.size - 1) throw new IllegalArgumentException
+    else recursive(n, List(), list)
+  }
+
+  def splitPureFunctionalSpan[T](n: Int, list: List[T]): (List[T], List[T]) = {
+    if (n < 1 || n > list.size - 1) throw new IllegalArgumentException
+    val splitted = list.zipWithIndex.span(tuple => tuple._2 < n)
+    (splitted._1.map(e => e._1), splitted._2.map(e => e._1))
+  }
+
+  def splitPureFunctionalFold[T](n: Int, list: List[T]): (List[T], List[T]) = {
+    if (n < 1 || n > list.size - 1) throw new IllegalArgumentException
+    else list.foldLeft((List[T](), List[T]()))((splitted, e) => if (splitted._1.size < n) (splitted._1 :+ e, splitted._2) else (splitted._1, splitted._2 :+ e))
+  }
+
+  def slice[T](from: Int, to: Int, list: List[T]): List[T] = {
+    if (from < 0 || to > list.size || from > to) throw new IllegalArgumentException
+    else dropLats(list.size - to, dropFirst(from, list))
+  }
+
+  def dropFirst[T](n: Int, list: List[T]): List[T] = {
+    if (n == 0) list
+    else dropFirst(n - 1, list.tail)
+  }
+
+  def dropLats[T](n: Int, list: List[T]): List[T] = {
+    if (n == 0) list
+    else dropLats(n - 1, list.init)
+  }
+
+  def slicePureFunctional[T](from: Int, to: Int, list: List[T]): List[T] = {
+    if (from < 0 || to > list.size || from > to) throw new IllegalArgumentException
+    else list.zipWithIndex.filter(t => t._2 >= from && t._2 < to).map(t => t._1)
+  }
+
+  def rotateOne[T](n: Int, list: List[T]): List[T] = {
+    if (n > 0) rotateOne(n - 1, list.tail :+ list.head)
+    else if (n < 0) rotateOne(n + 1, list.last +: list.init)
+    else list
+  }
+
+  def rotateTwo[T](n: Int, list: List[T]): List[T] = {
+    val m = (list.size + n) % list.size // treat positive and negative 'n' the same way
+    if (m == 0) list
+    else rotateTwo(m - 1, list.tail :+ list.head)
+  }
+
+  def rotatePureFunctional[T](n: Int, list: List[T]): List[T] = {
+    val m = (list.size + n) % list.size
+    list.drop(m) ::: list.take(m)
+  }
+
 }
